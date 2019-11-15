@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "httpie": "^1.1.2",
+    "json-sse": "0.0.0",
     "nodemon": "^1.19.4"
   }
 }
